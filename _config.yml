@@ -1,11 +1,11 @@
 # Site settings
 title: dario.com • Security • Privacy
-email: contact@dario.com
 description: Understand - Take Action. Security is a business requirement. Protecting privacy is good business.
-author: dario
+author: dario.com
 url: https://dario.com
 baseurl: ''
 logo: "/img/chklst.png"
+email: contact@dario.com
 twitter_username: darioS3C
 telephone_number: +1-514-572-0424
 # exclude
