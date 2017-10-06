@@ -3,12 +3,14 @@ title: dario.com • Security • Privacy
 description: Understand - Take Action. Security is a business requirement. Protecting privacy is good business.
 author: dario.com
 url: https://dario.com
+french_url: https://dario.site
 baseurl: ''
+resources_url: 'resources'
 logo: "/img/chklst.png"
 email: contact@dario.com
-twitter_username: darioS3C
-telephone_number: +1-514-572-0424
-copyright:
+twitter_username:
+telephone_number:
+copyright: dario.com • Security • Privacy
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
 gems:
