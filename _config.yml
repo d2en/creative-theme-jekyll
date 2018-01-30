@@ -14,7 +14,6 @@ telephone_number:
 copyright: dario.com • Security • Privacy
 google_tracking_id: UA-98131817-2
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
-gems:
-  - jekyll-sitemap
+# gems:
 # Build settings
 markdown: kramdown
