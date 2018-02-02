@@ -1,91 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://dario.com/resources/contact</loc>
+  <loc>https://dario.com/resources/contact</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/assess-risk</loc>
+  <loc>https://dario.com/resources/assess-risk</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/protect-assets</loc>
+  <loc>https://dario.com/resources/protect-assets</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/training-staff</loc>
+  <loc>https://dario.com/resources/training-staff</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/ensure-continuity</loc>
+  <loc>https://dario.com/resources/ensure-continuity</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/img/portfolio/allianz-protect.pdf</loc>
+  <loc>https://dario.com/img/portfolio/allianz-protect.pdf</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/img/portfolio/BNP-Paribas.jpg</loc>
+  <loc>https://dario.com/resources/ceo-fraud</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/img/portfolio/rpr.jpg</loc>
+  <loc>https://dario.com/resources/ransomware-security</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources</loc>
+  <loc>https://dario.com/resources/cyber-insurance</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/ceo-fraud</loc>
+  <loc>https://dario.com/resources/better-password-security</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/ransomware-security</loc>
+  <loc>https://dario.com/resources/GDPR</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/cyber-insurance</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>http://dario.com/resources/better-password-security</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>http://dario.com/resources/GDPR</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>http://dario.com/resources/</loc>
+  <loc>https://dario.com/resources/</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
@@ -97,7 +79,7 @@
   <lastmod>2018-01-30</lastmod>
 </url>
 <url>
-  <loc>http://dario.com/resources/services</loc>
+  <loc>https://dario.com/resources/services</loc>
   <priority>0.9</priority>
   <changefreq>daily</changefreq>
   <lastmod>2018-01-30</lastmod>
