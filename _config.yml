@@ -11,7 +11,7 @@ logo: "/img/chklst.png"
 email: contact@dario.com
 twitter_username: darioS3C
 telephone_number:
-copyright: dario.com • Security • Privacy
+copyright: dario.com • Security
 google_tracking_id: UA-98131817-2
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "NOTICE", "LICENSE", "README.md"]
 # gems:
