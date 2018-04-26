@@ -7,7 +7,7 @@
 
     <title>{{ site.title }}</title>
 
-    <!-- <link rel="canonical" href="{{ site.url }}"> -->
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <link rel="apple-touch-icon" href="{{ site.url }}/img/chklst.png"/>
     <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.url }}/favicon.ico" type="image/x-icon"/>
     <link rel="icon" href="{{ site.url }}/favicon.ico" type="image/x-icon">
