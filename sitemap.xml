@@ -1,87 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://dario.com/</loc>
+  <lastmod>2018-04-26T18:56:52+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
 <url>
   <loc>https://dario.com/resources/contact</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/assess-risk</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/protect-assets</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/training-staff</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/ensure-continuity</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com/img/portfolio/allianz-protect.pdf</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com/resources/ceo-fraud</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com/resources/ransomware-security</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com/resources/cyber-insurance</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com/resources/better-password-security</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/gdpr</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-03-01</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/ceo-fraud</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/ransomware-security</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/cyber-insurance</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/better-password-security</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/privacy-policy</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
-</url>
-<url>
-  <loc>https://dario.com</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.84</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/services</loc>
-  <priority>0.9</priority>
-  <changefreq>daily</changefreq>
-  <lastmod>2018-01-30</lastmod>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.74</priority>
 </url>
-</urlset>
+<url>
+  <loc>https://dario.com/resources/gdpr-smb-survey</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.84</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-home</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.61</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q1</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a1</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.53</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q2</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.43</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-get-help</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.66</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a2</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.56</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q3</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.46</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a3</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q4</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a4</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.57</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q5</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.47</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a5</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.53</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q6</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.43</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a6</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q7</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.31</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a7</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.49</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q8</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.39</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a8</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.47</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q9</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.37</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a9</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.45</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-q10</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.35</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-a10</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.44</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/gdpr-survey-end</loc>
+  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+  <priority>0.44</priority>
+</url>
+<url>
+  <loc>https://dario.com/img/portfolio/allianz-protect.pdf</loc>
+  <lastmod>2018-01-30</lastmod>
+  <priority>0.3</priority>
+</url>
