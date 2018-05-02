@@ -81,14 +81,9 @@
   <priority>0.84</priority>
 </url>
 <url>
-  <loc>https://dario.com/resources/gdpr-survey-home</loc>
-  <lastmod>2018-05-02T02:03:44+00:00</lastmod>
-  <priority>0.61</priority>
-</url>
-<url>
   <loc>https://dario.com/resources/gdpr-survey-q1</loc>
   <lastmod>2018-05-02T02:03:44+00:00</lastmod>
-  <priority>0.41</priority>
+  <priority>0.81</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/gdpr-survey-a1</loc>
@@ -103,7 +98,7 @@
 <url>
   <loc>https://dario.com/resources/gdpr-get-help</loc>
   <lastmod>2018-05-02T02:03:44+00:00</lastmod>
-  <priority>0.66</priority>
+  <priority>0.76</priority>
 </url>
 <url>
   <loc>https://dario.com/resources/gdpr-survey-a2</loc>
