@@ -78,7 +78,11 @@
 <url>
   <loc>https://dario.com/resources/gdpr-5-questions</loc>
   <lastmod>2018-05-02T02:03:44+00:00</lastmod>
+<<<<<<< HEAD
   <priority>0.85</priority>
+=======
+  <priority>0.90</priority>
+>>>>>>> origin/master
 </url>
 
 </urlset>
