@@ -62,6 +62,10 @@
 </url>
 <url>
   <loc>https://dario.com/resources/gdpr-5-questions</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dario.com/resources/ccpa</loc>
   <priority>0.95</priority>
 </url>
 <url>
