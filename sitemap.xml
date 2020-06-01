@@ -9,6 +9,10 @@
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://dario.com/fr</loc>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://dario.com/resources/contact</loc>
   <priority>0.80</priority>
 </url>
